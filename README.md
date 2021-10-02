@@ -1,7 +1,9 @@
 # NukeQueue
 
-Created by Luciano Cequinel (www.cequinavfx.com)
-to report bugs or suggestions lucianocequinel@gmail.com
+A simple tool to send available Write nodes to queue, and run this queue when you have a list to run.
+
+Created by Luciano Cequinel (www.cequinavfx.com).
+To report bugs or suggestions lucianocequinel@gmail.com
 
 
 To install, put NukeQueue.py on your .nuke folder
