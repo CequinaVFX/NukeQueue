@@ -1,6 +1,10 @@
 # NukeQueue
 
-to install, put NukeQueue.py on your .nuke folder
+Created by Luciano Cequinel (www.cequinavfx.com)
+to report bugs or suggestions lucianocequinel@gmail.com
+
+
+To install, put NukeQueue.py on your .nuke folder
 
 You can find your .nuke folder at:
 Linux:      /home/login name/.nuke
